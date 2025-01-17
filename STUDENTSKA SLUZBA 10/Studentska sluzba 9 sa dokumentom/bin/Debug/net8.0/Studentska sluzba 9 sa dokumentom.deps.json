@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Studentska sluzba 9 sa dokumentom/1.0.0": {
+        "runtime": {
+          "Studentska sluzba 9 sa dokumentom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Studentska sluzba 9 sa dokumentom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

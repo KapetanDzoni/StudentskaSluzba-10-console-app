@@ -1,0 +1,56 @@
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.exe
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.deps.json
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.runtimeconfig.json
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.dll
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.pdb
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.AssemblyInfoInputs.cache
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.AssemblyInfo.cs
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.csproj.CoreCompileInputs.cache
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.dll
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\refint\Studentska sluzba 9 sa dokumentom.dll
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.pdb
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.genruntimeconfig.cache
+E:\Visual studio repository\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\ref\Studentska sluzba 9 sa dokumentom.dll
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.exe
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.deps.json
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.runtimeconfig.json
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.dll
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.pdb
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.AssemblyInfoInputs.cache
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.AssemblyInfo.cs
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.csproj.CoreCompileInputs.cache
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.dll
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\refint\Studentska sluzba 9 sa dokumentom.dll
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.pdb
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.genruntimeconfig.cache
+C:\Users\Odskocni\Desktop\New folder (2)\New folder\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\ref\Studentska sluzba 9 sa dokumentom.dll
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.exe
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.deps.json
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.runtimeconfig.json
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.dll
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.pdb
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.AssemblyInfoInputs.cache
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.AssemblyInfo.cs
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.csproj.CoreCompileInputs.cache
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.dll
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\refint\Studentska sluzba 9 sa dokumentom.dll
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.pdb
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.genruntimeconfig.cache
+E:\Visual studio repository\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\ref\Studentska sluzba 9 sa dokumentom.dll
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.exe
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.deps.json
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.runtimeconfig.json
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.dll
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\bin\Debug\net8.0\Studentska sluzba 9 sa dokumentom.pdb
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.AssemblyInfoInputs.cache
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.AssemblyInfo.cs
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.csproj.CoreCompileInputs.cache
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.dll
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\refint\Studentska sluzba 9 sa dokumentom.dll
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.pdb
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\Studentska sluzba 9 sa dokumentom.genruntimeconfig.cache
+C:\Users\Odskocni\Desktop\Moji projekti\STUDENTSKA SLUZBA 10\Studentska sluzba 9 sa dokumentom\obj\Debug\net8.0\ref\Studentska sluzba 9 sa dokumentom.dll

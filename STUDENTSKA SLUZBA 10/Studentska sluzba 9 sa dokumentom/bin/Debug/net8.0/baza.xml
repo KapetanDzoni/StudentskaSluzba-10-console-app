@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <ImeIPrezime>Nikola Jevtić</ImeIPrezime>
+    <ImeRoditelja>Zorica</ImeRoditelja>
+    <OpstinaRodjenja>Užice</OpstinaRodjenja>
+    <DatumRodjenja />
+    <DrzavaRodjenja>Srbija</DrzavaRodjenja>
+    <Jmbg>1008988790022</Jmbg>
+    <Drzavljanstvo>Srbin</Drzavljanstvo>
+    <VrstaStudija>Osnovne akademske studije</VrstaStudija>
+    <Smer>Informacioni sistemi i tehnologije</Smer>
+    <BrojIndeksa>2004/2023</BrojIndeksa>
+    <DatumUpisa />
+  </Student>
+  <Student>
+    <ImeIPrezime>Maja Maja</ImeIPrezime>
+    <ImeRoditelja>Maja</ImeRoditelja>
+    <OpstinaRodjenja>Maja</OpstinaRodjenja>
+    <DatumRodjenja />
+    <DrzavaRodjenja>Srbija</DrzavaRodjenja>
+    <Jmbg>1008988790022</Jmbg>
+    <Drzavljanstvo>SRbina</Drzavljanstvo>
+    <VrstaStudija>Doktorske studije</VrstaStudija>
+    <Smer>Operacioni menadžment</Smer>
+    <BrojIndeksa>2001/2001</BrojIndeksa>
+    <DatumUpisa />
+  </Student>
+</ArrayOfStudent>
